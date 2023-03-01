@@ -15,16 +15,14 @@ Hello, my name is Sahatsawat Boonchit, but you can call me Euro. I graduated fro
 #### Frontend:
 ![](https://skillicons.dev/icons?i=js,html,css,next,tailwind,bootstrap)
 
-#### Bankend
+#### Bankend:
 
 ![](https://skillicons.dev/icons?i=go,nodejs,nestjs,express,flask,mysql,postgres,sqlite)
 
-#### Tools
+#### Tools:
 
 ![](https://skillicons.dev/icons?i=vscode,git,github,figma,postman,docker)
 
-
-
-## Stats
+## Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euro1061)](https://github.com/euro1061/github-readme-stats)
