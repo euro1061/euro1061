@@ -22,3 +22,5 @@ Hello, my name is Sahatsawat Boonchit, but you can call me Euro. I graduated fro
 ![](https://skillicons.dev/icons?i=vscode,git,github,figma,postman,docker)
 
 ### [https://euro1061.github.io/euro1061/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euro1061)](https://github.com/euro1061/github-readme-stats)
