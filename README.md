@@ -11,4 +11,12 @@ Hello, my name is Sahatsawat Boonchit, but you can call me Euro. I graduated fro
 #### Frontend:
 ![](https://skillicons.dev/icons?i=js,html,css,next,tailwind,bootstrap)
 
+#### Bankend
+
+![](https://skillicons.dev/icons?i=go,nodejs,nestjs,express,flask,mysql,postgres,sqlite)
+
+#### Tools
+
+![](https://skillicons.dev/icons?i=vscode,git,github,figma,postman,docker)
+
 ### [https://euro1061.github.io/euro1061/
