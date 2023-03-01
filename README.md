@@ -2,6 +2,6 @@
 
 ![Banner](https://res.cloudinary.com/dkknun8xu/image/upload/v1677669771/GITHUB/Screenshot_2023-03-01_182119_h1j6lm.png)
 
-สวัสดีครับผมชื่อนาย สหัสวรรษ บุญชิต ชื่อเล่น ยูโร จบการศึกษาจากมหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร สนใจงานด่าน Developer Front-End, Back-End มีประสบการณ์ฝึกงาน 6 เดือน โดยได้รับมอบหมายให้ทำในตำแหน่ง Front-End Developer พัฒนาระบบ HIS (Hospital Information Systems) ระบบสารสนเทศโรงพยาบาล ปัจจุบันกำลังศึกษาเพิ่มเติมในส่วนของการพัฒนาระบบแบบ Microservice
+Hello, my name is Sahatsawat Boonchit, but you can call me Euro. I graduated from Rajamangala University of Technology Phra Nakhon. I am interested in working as a Front-End or Back-End Developer. I have 6 months of internship experience working as a Front-End Developer. I was assigned to develop the HIS (Hospital Information Systems) for a hospital. Currently I am studying to enhance my skills in developing Microservice systems.
 
 ### [https://euro1061.github.io/euro1061/
