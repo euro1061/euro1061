@@ -2,7 +2,7 @@
 
 ![Banner](https://res.cloudinary.com/dkknun8xu/image/upload/v1677669771/GITHUB/Screenshot_2023-03-01_182119_h1j6lm.png)
 
-Hello, my name is Sahatsawat Boonchit (Euro). I graduated from Rajamangala University of Technology Phra Nakhon. I am interested in working as a Frontend or Backend Developer. I have 5 months of internship experience working as a Frontend Developer. I was assigned to develop the HIS (Hospital Information Systems) for a hospital. Currently I am studying to enhance my skills in developing Microservice systems.
+Full-Stack Developer with 1 year and 10 months of experience in developing internal systems for organizations. Proficient in both Frontend and Backend development, with the ability to translate user requirements into practical and business-driven solutions. Seeking opportunities in a Full-Stack or Backend Developer role.
 
 ## [My Portfolio Website](https://resume-tawny-six.vercel.app/)
 
